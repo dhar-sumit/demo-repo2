@@ -1,0 +1,15 @@
+name: Hello World Workflow
+
+on: 
+  push: # This workflow runs on every push
+
+jobs:
+  print_hello_world: # Name of the job
+    runs-on: ubuntu-latest # The job runs on an Ubuntu virtual machine
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Say Hello
+        run: echo "Hello World!"
