@@ -4,5 +4,7 @@ def hello():
 def addition(a, b):
     return a+b
 
-hello()
+def subtraction(a, b):
+    return a-b
 
+hello()
