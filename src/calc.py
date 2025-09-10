@@ -22,7 +22,6 @@ def modulus(a, b):
     """Return remainder of division of two positive integers."""
     return a % b
 
-
 def power(a, b):
     """Return a raised to the power of b."""
     return a ** b
