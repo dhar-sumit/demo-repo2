@@ -1,10 +1,3 @@
-# Demo 2
-Testing to make repository locally and remotely.
-
-# New Branch added
-Added a new branch addition.
-
-
 # My Sample Repo - GitHub Actions Demo
 
 This repo demonstrates a minimal Python project with GitHub Actions CI.
