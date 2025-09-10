@@ -16,4 +16,6 @@ source .venv/bin/activate         # on Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 pytest
 ```
-[![CI](https://github.com/dhar-sumit/demo-repo2/actions/workflows/main.yml/badge.svg)](https://github.com/dhar-sumit/demo-repo2/actions/workflows/main.yml)
+[![CI](https://github.com/dhar-sumit/demo-repo2/workflows/CI%20workflow/badge.svg?branch=main)](https://github.com/dhar-sumit/demo-repo2/actions/workflows/main.yml)
+
+<!-- [![CI](https://github.com/dhar-sumit/demo-repo2/actions/workflows/main.yml/badge.svg)](https://github.com/dhar-sumit/demo-repo2/actions/workflows/main.yml) -->
