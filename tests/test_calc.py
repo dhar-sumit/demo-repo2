@@ -41,5 +41,6 @@ class TestCalculator(unittest.TestCase):
         self.assertEqual(power(7, 1), 7)
         self.assertEqual(power(10, 2), 100)
 
+
 if __name__ == '__main__':
     unittest.main()
