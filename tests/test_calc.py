@@ -1,6 +1,7 @@
 import unittest
 from src.calc import add, subtract, multiply, divide, modulus, power
 
+
 class TestCalculator(unittest.TestCase):
 
     def test_add(self):
@@ -39,6 +40,7 @@ class TestCalculator(unittest.TestCase):
         self.assertEqual(power(5, 0), 1)
         self.assertEqual(power(7, 1), 7)
         self.assertEqual(power(10, 2), 100)
+
 
 if __name__ == '__main__':
     unittest.main()
