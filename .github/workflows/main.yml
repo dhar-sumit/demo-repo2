@@ -27,7 +27,7 @@ jobs:
 
       - name: Lint (flake8)
         run: |
-          flake8 src tests || true   # don't block on lint for first runs; change later to fail on lint
+          flake8 src tests   # don't block on lint for first runs; change later to fail on lint
 
       - name: Run tests (pytest)
         run: |
