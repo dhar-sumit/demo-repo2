@@ -97,3 +97,11 @@ pytest
 * Automating build and test workflows for reliability.
 * Using caching to optimize execution time.
 * Integrating notifications for instant feedback.
+
+---
+
+## Author
+
+**Sumit Dhar**
+DataGrokr Software Development Intern
+[GitHub](https://github.com/dhar-sumit) | [Email](mailto:sumiths.0015@example.com)
